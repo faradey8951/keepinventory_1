@@ -1,2 +1,2 @@
-1,6
+1,7
 https://github.com/faradey8951/keepinventory_1/raw/master/Setup.exe
