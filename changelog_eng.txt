@@ -1,0 +1,24 @@
+[Version: 5.7 (Feb 13, 2019)]
+
+*************************
+* Fixes
+*************************
+
+- When scrolling through the pages of the database of clothes, the description of the clothes is not updated
+- Incorrect naming of the account directory during backup
+- Search for clients in the local network
+- Restart the program when you try to otblit editor uch. records if they don't exist
+
+*************************
+* Added
+*************************
+
+- New firmware update interface
+- The scheme of error correction in the configuration file, when trying to change the administration
+- interface improvements
+
+*************************
+* Patches
+*************************
+
+-
